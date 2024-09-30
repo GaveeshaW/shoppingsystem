@@ -1,0 +1,42 @@
+Clothing: Product information: 
+Product ID: c01
+Product name: frock
+Price of the product: 4200.0
+Size of the cloth: medium
+Color of the cloth: rd
+Electronics: Product information: 
+Product ID: e01
+Product name: revlon
+Price of the product: 15000.0
+Brand of the product: revlon
+Warranty period: 15
+Electronics: Product information: 
+Product ID: e012
+Product name: pop
+Price of the product: 1520.0
+Brand of the product: opkj
+Warranty period: 54
+Electronics: Product information: 
+Product ID: as353
+Product name: dfhfdj
+Price of the product: 34.0
+Brand of the product: eyr
+Warranty period: 13
+Electronics: Product information: 
+Product ID: dfh658
+Product name: vmmb
+Price of the product: 23.0
+Brand of the product: ghk
+Warranty period: 56
+Electronics: Product information: 
+Product ID: dfh769
+Product name: cvnvn
+Price of the product: 34.0
+Brand of the product: sdg
+Warranty period: 23
+Clothing: Product information: 
+Product ID: sg436
+Product name: fdj
+Price of the product: 45.0
+Size of the cloth: s
+Color of the cloth: ery
